@@ -1,14 +1,11 @@
 ## ColorFx_iOS_App
 
 ### App Description
-`TODO://` This is an iOS app that allows users to change colors of the button on the interface.
+This is an iOS app that allows users to change colors of the button on the interface.
 
-### App Walk-though
-`TODO://` 
+### App Walk-through
 
 <img src="https://media.giphy.com/media/nJyKSmyyIprwNRoU1Y/giphy.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
